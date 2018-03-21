@@ -1,0 +1,225 @@
+.no-margin {
+    margin: 0px !important;
+}
+
+.verde {
+    color: #068e4d !important;
+}
+
+.navbar-nav {
+    font-size: 16px !important;
+}
+
+.nav-link-tel {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+.nav-link-tel:hover {
+    text-decoration: none;
+}
+
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+    color: #19b5ae !important;
+    border-top-color: #19b5ae !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus {
+    color: #19b5ae !important;
+}
+
+.border-top .active {
+    border-top: 1px solid #19b5ae !important;
+}
+
+.row h4 {
+    text-align: center !important;
+}
+
+#inicio {
+    background: url("../img/bg_clinica.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#inicio h3 {
+    color: #068c4c;
+}
+
+#inicio h6 {
+    font-weight: normal;
+    margin-bottom: 0px !important;
+}
+
+#inicio p {
+    color: #a2a2a2;
+}
+
+.b_vindo p {
+    font-size: 14px;
+}
+
+.c-img {
+    margin-left: 0px !important;
+}
+
+.carousel-item img {
+    padding: 0px !important;
+    margin: 0px !important;
+    width: 33%
+}
+
+#espec {
+    background: url("../img/bg_especialidades.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#espec h2 {
+    color: #FFF;
+}
+
+#espec h6 {
+    font-weight: normal;
+    margin-bottom: 0px !important;
+    color: #FFF;
+}
+
+#espec p {
+    color: #FFF;
+}
+
+#espec ul {
+    color: #FFF;
+}
+
+#espec h5 {
+    color: #FFF;
+}
+
+#espec .item-espec {
+    font-size: 15px
+}
+
+#clinico {}
+
+#clinico h3 {
+    color: #068c4c;
+}
+
+#clinico h6 {
+    font-weight: normal;
+    margin-bottom: 0px !important;
+}
+
+#clinico p {
+    color: #a2a2a2;
+}
+
+.hide-bullets {
+    list-style: none;
+    margin-left: -40px;
+    margin-top: 20px;
+}
+
+.card {
+    border: none !important;
+}
+
+.no-radius {
+    border-radius: 0px !important;
+}
+
+.no-radius:hover {
+    border-radius: 0px !important;
+}
+
+.circle {
+    width: 70px;
+    height: 70px;
+    border: 4px solid #FFF;
+    border-radius: 50vh;
+    background: #1bb5af;
+    position: absolute;
+    color: #FFF;
+    /* text-align: center; */
+    top: 56%;
+    left: 84%;
+}
+
+#agendar {
+    background: url("../img/mapa.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#agendar h5 {
+    color: #068d50 !important;
+}
+
+.form-control {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0px !important;
+    font-size: 15px !important;
+}
+
+.form-control {
+    color: #495057;
+    background-color: #fff;
+    border-bottom-color: #141516 !important;
+    outline: 0;
+    box-shadow: none !important;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-bottom-color: #027010 !important;
+    outline: 0;
+    box-shadow: none !important;
+}
+
+textarea {
+    resize: none;
+    background-image: url("http://i.stack.imgur.com/yWNH7.png") !important;
+    font-size: 15px !important;
+    padding: 0px !important;
+}
+
+textarea:focus {
+    /*background-image: none !important;*/
+}
+
+#localiza .texto {
+    margin-top: 7px;
+    margin-bottom: 16px;
+    line-height: 1;
+    color: #FFF;
+    font-weight: 400;
+}
+
+#localiza .texto1 {
+    margin-top: 10px;
+    margin-bottom: 16px;
+    line-height: 1;
+    color: #FFF;
+    font-weight: 400;
+}
+
+#localiza img {
+    vertical-align: unset !important;
+}
+
+.texto {
+    width: auto !important;
+}
+
+footer smaill {
+    font-weight: 600;
+}
